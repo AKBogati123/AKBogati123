@@ -1,3 +1,4 @@
+![logo](https://github.com/AKBogati123/AKBogati123/blob/main/20230825_113608_0000.jpg)
 <h1 align="center">Hi 👋, I'm Aakash Bogati</h1>
 <h3 align="center">Enthusiastic Learner and Creator</h3>
 
